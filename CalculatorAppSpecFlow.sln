@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorAppSpecFlow", "CalculatorAppSpecFlow\CalculatorAppSpecFlow.csproj", "{08AEE7D7-2127-4D5A-AF31-EDA114967242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08AEE7D7-2127-4D5A-AF31-EDA114967242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08AEE7D7-2127-4D5A-AF31-EDA114967242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08AEE7D7-2127-4D5A-AF31-EDA114967242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08AEE7D7-2127-4D5A-AF31-EDA114967242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63CB49D4-718F-4710-BFF0-ABD7DC52C610}
+	EndGlobalSection
+EndGlobal
